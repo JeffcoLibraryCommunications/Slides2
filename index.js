@@ -13,7 +13,7 @@ var localbranch = "Lakewood Library";
 var xmlDoc;
 var slidesBeforeRefresh = 30;
 var dateLoaded = new Date().getDate();
-var timeOnSlide = 60; // in seconds
+var timeOnSlide = 8; // in seconds
 
 // get local branch from key value pair in url
 var noShowList = ["Baby Time", "Family Time", "Toddler Time"];
